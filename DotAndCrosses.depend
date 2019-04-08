@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1536856466 source:c:\users\879024\desktop\dotandcrosses\main.cpp
+	<iostream>
+	<fstream>
+	"DotAndCross.h"
+
+1536863658 c:\users\879024\desktop\dotandcrosses\include\dotandcross.h
+	<vector>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1536864031 source:c:\users\879024\desktop\dotandcrosses\src\dotandcross.cpp
+	"DotAndCross.h"
+	<iostream>
+	<fstream>
+
+1535018420 source:e:\dotandcrosses\main.cpp
+	<iostream>
+	<fstream>
+	"DotAndCross.h"
+
+1535019300 e:\dotandcrosses\include\dotandcross.h
+	<vector>
+	<string>
+
+1535019408 source:e:\dotandcrosses\src\dotandcross.cpp
+	"DotAndCross.h"
+	<iostream>
+
+1535018420 source:d:\dotandcrosses\main.cpp
+	<iostream>
+	<fstream>
+	"DotAndCross.h"
+
+1535019300 d:\dotandcrosses\include\dotandcross.h
+	<vector>
+	<string>
+
+1535019392 source:d:\dotandcrosses\src\dotandcross.cpp
+	"DotAndCross.h"
+	<iostream>
+
+1536856468 source:f:\dotandcrosses\dotandcrosses\main.cpp
+	<iostream>
+	<fstream>
+	"DotAndCross.h"
+
+1536863660 f:\dotandcrosses\dotandcrosses\include\dotandcross.h
+	<vector>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1536864518 source:f:\dotandcrosses\dotandcrosses\src\dotandcross.cpp
+	"DotAndCross.h"
+	<iostream>
+	<fstream>
+
